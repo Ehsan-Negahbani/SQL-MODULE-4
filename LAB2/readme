@@ -1,0 +1,7 @@
+The practice problems for this Lab will provide hands on experience with the different kinds of join operations
+that we learned in this Module. 
+
+We will be using the same HR Database that we used in the previous module.
+IMPORTANT: This lab assumes that you have already created and populated the tables in the sample HR database
+schema illustrated below in your instance of Db2 on IBM Cloud. 
+If you have not done this yet, please complete the lab in the previous module before you start this one.
